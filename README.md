@@ -6,6 +6,10 @@ Image segmentation is a fundamental task in computer vision where an image is pa
 
 The **Segment Anything Model (SAM)** is a powerful, versatile model developed by Meta AI that can segment any object in an image based on user-provided prompts. Unlike traditional segmentation models that are trained for specific object categories or datasets, SAM is designed to be a **general-purpose segmentation model** capable of handling a wide variety of objects and scenes without the need for fine-tuning.
 
+Models Download :
+
+                     https://docs.ultralytics.com/models/sam/#key-features-of-the-segment-anything-model-sam
+
 ### Key Features of the SAM Model
 
 1. **Prompt-based Segmentation**:
