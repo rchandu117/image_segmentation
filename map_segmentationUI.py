@@ -50,7 +50,7 @@ def apply_custom_css():
 
 apply_custom_css()  # Apply the CSS styles
 
-st.title("Marvel Area Segmentation", anchor='custom-header')
+st.title("Image Segmentation", anchor='custom-header')
 
 st.write("\n")
 
